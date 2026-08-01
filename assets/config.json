@@ -1,0 +1,13 @@
+{
+  "DATABASE": {
+    "PATH": "assets/database.db"
+  },
+
+  "BOT": {
+    "TOKEN": "8893368475:AAG9G9bXAe7iAuB56DxPkc-ObbKcnAEadHs",
+    "ADMIN_IDS": [954555739],
+    "MUST_HAVE_CHANNELS": {
+      "-1003868877286": "https://t.me/+97hzqhDYfUc2YTk6"
+    }
+  }
+}

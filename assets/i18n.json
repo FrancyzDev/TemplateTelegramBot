@@ -1,0 +1,37 @@
+{
+  "start_text": {
+    "us": "Welcome!",
+    "ua": "Ласкаво просимо!",
+    "ru": "Добро пожаловать!"
+  },
+
+  "channel_button_text": {
+    "us": "Channel #{count}",
+    "ua": "Канал #{count}",
+    "ru": "Канал #{count}"
+  },
+
+  "sub_button_text": {
+    "us": "Subscribed",
+    "ua": "Підписався",
+    "ru": "Подписался"
+  },
+
+    "check_sub_text": {
+    "us": "Subscribe to channels to get access to the bot",
+    "ua": "Підпишіться на канали, щоб отримати доступ до бота",
+    "ru": "Подпишитесь на каналы чтобы получить доступ к боту"
+  },
+
+  "check_sub_error_text": {
+    "us": "You are not subscribed!",
+    "ua": "Ви не підписані!",
+    "ru": "Вы не подписаны!"
+  },
+
+  "admin_button_text": {
+    "us": "Admin menu",
+    "ua": "Адмiн меню",
+    "ru": "Адми меню"
+  }
+}

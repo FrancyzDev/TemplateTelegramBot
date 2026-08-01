@@ -1,0 +1,1 @@
+from .menu import router as admin_menu_router
